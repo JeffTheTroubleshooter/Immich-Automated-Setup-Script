@@ -11,7 +11,16 @@
 
 ## Supported distros
 
-Not tested, need feedback. If you try it, please open an issue saying whether it worked.
+| Distro family | Status |
+|---|---|
+| Fedora | Tested, works |
+| Debian, Ubuntu, Linux Mint, Pop!_OS, Zorin, elementary OS | Not tested, need feedback |
+| RHEL, Rocky, AlmaLinux, CentOS, Oracle Linux | Not tested, need feedback |
+| Arch, Manjaro, EndeavourOS, Garuda | Not tested, need feedback |
+| openSUSE, SLES | Not tested, need feedback |
+| Alpine | Not tested, need feedback |
+
+If you try it on a distro marked "Not tested", please open an issue saying whether it worked.
 
 ## Install
 
